@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout/notification_action.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rahulgupta/Rahul/Flutter Projects/flutter/local_storage_app/build/shared_preferences_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rahulgupta/.gradle/caches/transforms-3/22ec7fadc36d00149da379ed5018ea40/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
