@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81714561767",
+    "project_id": "sleep-eon",
+    "storage_bucket": "sleep-eon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81714561767:android:c8c67e7f3b10e9361e1842",
+        "android_client_info": {
+          "package_name": "com.example.sleep_eon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81714561767-duhr360ndur07od1iu90uhegfd7p8tal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdTD22-04cuGlI9ynonqU8VHsyfytvkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81714561767-duhr360ndur07od1iu90uhegfd7p8tal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
